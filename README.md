@@ -1,4 +1,3 @@
-```markdown
 # Aternos Control
 
 Aternos Control is a Node.js package that provides a convenient way to automate interactions with the Aternos server hosting platform using Puppeteer.
@@ -46,6 +45,3 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgements
 
 - Puppeteer: https://pptr.dev/
-
-```
-
