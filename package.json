@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Mathr81/aternos-control#readme",
   "dependencies": {
-    "puppeteer": "^20.8.0"
+    "puppeteer": "^20.8.1"
   }
 }
